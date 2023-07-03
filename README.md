@@ -36,6 +36,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -63,3 +67,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IMDelewer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
+
+###
+
+<h3 align="left">🎧 What i listen now?</h3>
+
+###
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31gjxgkpdijiyrv3aieaxskua2qm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
