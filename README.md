@@ -74,9 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IMDelewer/IMDelewer/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31gjxgkpdijiyrv3aieaxskua2qm">
